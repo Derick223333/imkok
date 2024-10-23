@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* 부드러운 배경색 */
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #007bff; /* 경계선 색상 */
+    border-radius: 10px; /* 둥근 모서리 */
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
+}
+
+.meal-info {
+    margin-top: 20px;
+}
+
+h1 {
+    color: #007bff; /* 제목 색상 */
+}
+
+.alert {
+    font-size: 1.2rem; /* 글자 크기 조정 */
+}
